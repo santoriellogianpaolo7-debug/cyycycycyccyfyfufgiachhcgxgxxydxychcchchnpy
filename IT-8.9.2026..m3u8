@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 group-title="IT | GENERALE VIP",IT: CANALE 20 FHD
+http://31.43.191.125:8080/restream/restream/135828
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/canale5.png",IT: CANALE 5 FHD
+http://31.43.191.125:8080/restream/restream/135829
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/canale5.png",IT: CANALE 5 HD
+http://31.43.191.125:8080/restream/restream/135830
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/italia1-it.png",IT: ITALIA 1 FHD
+http://31.43.191.125:8080/restream/restream/135832
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/italia1-it.png",IT: ITALIA 1 HD
+http://31.43.191.125:8080/restream/restream/135833
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/italia1-it.png",IT: ITALIA 1 HEVC
+http://31.43.191.125:8080/restream/restream/135834
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/italia2-it.png",IT: ITALIA 2 FHD
+http://31.43.191.125:8080/restream/restream/135836
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/italia2-it.png",IT: ITALIA 2 HD
+http://31.43.191.125:8080/restream/restream/135837
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/LA7D.png",IT: LA 7D FHD
+http://31.43.191.125:8080/restream/restream/135839
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/LA7D.png",IT: LA 7D HD
+http://31.43.191.125:8080/restream/restream/135840
+#EXTINF:-1 group-title="IT | GENERALE VIP",IT: LA7 FHD
+http://31.43.191.125:8080/restream/restream/135843
+#EXTINF:-1 group-title="IT | GENERALE VIP",IT: LA7 HD
+http://31.43.191.125:8080/restream/restream/135844
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-1-it.png",IT: RAI 1 FHD
+http://31.43.191.125:8080/restream/restream/135848
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-1-it.png",IT: RAI 1 HD
+http://31.43.191.125:8080/restream/restream/135849
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-2-it.png",IT: RAI 2 HD
+http://31.43.191.125:8080/restream/restream/135852
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai3.png",IT: RAI 3 FHD
+http://31.43.191.125:8080/restream/restream/135854
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai3.png",IT: RAI 3 HD
+http://31.43.191.125:8080/restream/restream/135855
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-4-it.png",IT: RAI 4 FHD
+http://31.43.191.125:8080/restream/restream/135857
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-4-it.png",IT: RAI 4 HD
+http://31.43.191.125:8080/restream/restream/135858
+#EXTINF:-1 group-title="IT | GENERALE VIP",IT: RAI 4K
+http://31.43.191.125:8080/restream/restream/135859
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai5.png",IT: RAI 5 FHD
+http://31.43.191.125:8080/restream/restream/135860
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai5.png",IT: RAI 5 HD
+http://31.43.191.125:8080/restream/restream/135861
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-scuola-it.png",IT: RAI SCUOLA FHD
+http://31.43.191.125:8080/restream/restream/135863
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rete4-it.png",IT: RETE 4 FHD
+http://31.43.191.125:8080/restream/restream/135866
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rete4-it.png",IT: RETE 4 HD
+http://31.43.191.125:8080/restream/restream/135867
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rsila1.png",IT: RSI LA 1 HD
+http://31.43.191.125:8080/restream/restream/135869
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rsila2.png",IT: RSI LA 2 FHD
+http://31.43.191.125:8080/restream/restream/135871
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/rsila2.png",IT: RSI LA 2 HD
+http://31.43.191.125:8080/restream/restream/135872
+#EXTINF:-1 group-title="IT | GENERALE VIP" tvg-logo="https://docdog.top/logo/countries/italy/raiitalia.png",IT: RAI ITALIA FHD
+http://31.43.191.125:8080/restream/restream/135874
+#EXTINF:-1 group-title="IT | BAMBINI VIP" tvg-logo="https://docdog.top/logo/countries/italy/cartoon-network-it.png",IT: CARTOON NETWORK HD
+http://31.43.191.125:8080/restream/restream/135882
+#EXTINF:-1 group-title="IT | CULTURA VIP" tvg-logo="https://docdog.top/logo/countries/italy/FOOD_NETWORK.png",IT: FOOD NETWORK HD
+http://31.43.191.125:8080/restream/restream/136070
+#EXTINF:-1 group-title="IT | CULTURA VIP" tvg-logo="https://docdog.top/logo/countries/italy/gambero-rosso-it.png",IT: GAMBERO ROSSO FHD
+http://31.43.191.125:8080/restream/restream/136072
+#EXTINF:-1 group-title="IT | CULTURA VIP" tvg-logo="https://docdog.top/logo/countries/italy/gambero-rosso-it.png",IT: GAMBERO ROSSO HD
+http://31.43.191.125:8080/restream/restream/136073
+#EXTINF:-1 group-title="IT | CULTURA VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-storia-it.png",IT: RAI STORIA FHD
+http://31.43.191.125:8080/restream/restream/136088
+#EXTINF:-1 group-title="IT | CULTURA VIP",IT: SKY DOCUMENTARIES HD
+http://31.43.191.125:8080/restream/restream/136095
+#EXTINF:-1 group-title="IT | CULTURA VIP",IT: SKY INVESTIGATION FHD
+http://31.43.191.125:8080/restream/restream/136098
+#EXTINF:-1 group-title="IT | CULTURA VIP",IT: SKY INVESTIGATION HD
+http://31.43.191.125:8080/restream/restream/136099
+#EXTINF:-1 group-title="IT | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-movie-it.png",IT: RAI MOVIE FHD
+http://31.43.191.125:8080/restream/restream/136110
+#EXTINF:-1 group-title="IT | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-movie-it.png",IT: RAI MOVIE HD
+http://31.43.191.125:8080/restream/restream/136111
+#EXTINF:-1 group-title="IT | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/italy/rai-premium-it.png",IT: RAI PREMIUM FHD
+http://31.43.191.125:8080/restream/restream/136112
+#EXTINF:-1 group-title="IT | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/italy/Warner_TV.png",IT: WARNER TV FHD
+http://31.43.191.125:8080/restream/restream/136114
+#EXTINF:-1 group-title="IT | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/italy/Warner_TV.png",IT: WARNER TV HD
+http://31.43.191.125:8080/restream/restream/136115
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE 20TH CENTURY FOX FHD
+http://31.43.191.125:8080/restream/restream/136116
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE 4K [MULTI-LANGUAGE)
+http://31.43.191.125:8080/restream/restream/136117
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ADRIANO CELENTANO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136118
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ALBERTO SORDI CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136119
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ALDO GIOVANNI E GIACOMO CHANNEL
+http://31.43.191.125:8080/restream/restream/136120
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ALESSANDRO SIANI CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136121
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ALVARO VITALI-PIERINO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136122
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE AMERICAN DAD 24H
+http://31.43.191.125:8080/restream/restream/136123
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE BRICKLEBERRY FHD 24H
+http://31.43.191.125:8080/restream/restream/136125
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CARLO VERDONE CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136126
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CHECCO ZALONE CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136127
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CHRISTIAN DE SICA CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136128
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA 007 FHD HEVC (DUAL AUDIO ITA/ENG)
+http://31.43.191.125:8080/restream/restream/136129
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA ANIMAZIONE FHD
+http://31.43.191.125:8080/restream/restream/136130
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA AVVENTURA FHD
+http://31.43.191.125:8080/restream/restream/136131
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA AZIONE FHD
+http://31.43.191.125:8080/restream/restream/136132
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA BIOGRAFICO FHD
+http://31.43.191.125:8080/restream/restream/136133
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA BUD SPENCER HD
+http://31.43.191.125:8080/restream/restream/136134
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA COMICO CULT FHD
+http://31.43.191.125:8080/restream/restream/136135
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA COMMEDIA FHD
+http://31.43.191.125:8080/restream/restream/136136
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA DRAMMATICO FHD
+http://31.43.191.125:8080/restream/restream/136137
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA FAMIGLIA FHD
+http://31.43.191.125:8080/restream/restream/136138
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA PRIMA VISIONE FHD
+http://31.43.191.125:8080/restream/restream/136145
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE CINEMA RELIGION HD
+http://31.43.191.125:8080/restream/restream/136146
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE DC'S LEGENDS OF TOMORROW CHANNEL FHD
+http://31.43.191.125:8080/restream/restream/136154
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE ELVIS PRESLEY CHANNEL FHD (MULTI-AUDIO) IT
+http://31.43.191.125:8080/restream/restream/136158
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE FRANCO E CICCIO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136161
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE GOMORRA STAGIONE 1 FHD HEVC
+http://31.43.191.125:8080/restream/restream/136163
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE IL CAPO DEI CAPI CHANNEL FHD
+http://31.43.191.125:8080/restream/restream/136168
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE JASON STATHAM CHANNEL FHD
+http://31.43.191.125:8080/restream/restream/136169
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE JEAN RENO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136170
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE LE FIABE DISNEY HD
+http://31.43.191.125:8080/restream/restream/136171
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE LIAM NEESON CHANNEL FHD (MULTI-AUDIO) IT
+http://31.43.191.125:8080/restream/restream/136172
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE LOONEY TOONS HD
+http://31.43.191.125:8080/restream/restream/136173
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE LOUIS DE FUNES CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136174
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE LUPIN III CHANNEL
+http://31.43.191.125:8080/restream/restream/136175
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE MARVEL FHD
+http://31.43.191.125:8080/restream/restream/136176
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE MASHA E ORSO HD
+http://31.43.191.125:8080/restream/restream/136177
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE MASSIMO TROISI CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136178
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE NATURE DISCOVERY 4K (MULTI-AUDIO)
+http://31.43.191.125:8080/restream/restream/136179
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE NATURE EXPLORER FHD
+http://31.43.191.125:8080/restream/restream/136180
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE NINO D'ANGELO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136181
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE PAOLO VILLAGIO CHANNEL HD
+http://31.43.191.125:8080/restream/restream/136182
+#EXTINF:-1 group-title="IT | CINEMA | EAGLE VIP" tvg-logo="https://docdog.top/logo/countries/italy/eagle_film.png",IT: EAGLE PEPPA PIG HD
+http://31.43.191.125:8080/restream/restream/136183
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP",IT: 20 MEDIASET HD
+http://31.43.191.125:8080/restream/restream/136189
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP",IT: CIELO HD
+http://31.43.191.125:8080/restream/restream/136192
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/focus-it.png",IT: FOCUS FHD
+http://31.43.191.125:8080/restream/restream/136194
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/focus-it.png",IT: FOCUS HD
+http://31.43.191.125:8080/restream/restream/136195
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/hgtv.png",IT: HGTV FHD
+http://31.43.191.125:8080/restream/restream/136201
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/hgtv.png",IT: HGTV HD
+http://31.43.191.125:8080/restream/restream/136202
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/iris-it.png",IT: IRIS FHD
+http://31.43.191.125:8080/restream/restream/136204
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/iris-it.png",IT: IRIS HD
+http://31.43.191.125:8080/restream/restream/136205
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP",IT: LA5 FHD
+http://31.43.191.125:8080/restream/restream/136208
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP",IT: LA5 HD
+http://31.43.191.125:8080/restream/restream/136209
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/mediasetextra.png",IT: MEDIASET EXTRA FHD
+http://31.43.191.125:8080/restream/restream/136211
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-uno-it.png",IT: SKY UNO FHD
+http://31.43.191.125:8080/restream/restream/136223
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-uno-it.png",IT: SKY UNO HD
+http://31.43.191.125:8080/restream/restream/136224
+#EXTINF:-1 group-title="IT | INTRATTENIMENTO VIP",IT: SKY UNO HEVC
+http://31.43.191.125:8080/restream/restream/136225
+#EXTINF:-1 group-title="IT | MUSICA VIP" tvg-logo="https://docdog.top/logo/countries/italy/radio-italia-it.png",IT: RADIO ITALIA TV HD
+http://31.43.191.125:8080/restream/restream/136240
+#EXTINF:-1 group-title="IT | NOTIZIE VIP",IT: TGCOM 24 FHD
+http://31.43.191.125:8080/restream/restream/136259
+#EXTINF:-1 group-title="IT | SERIE VIP",IT: 27 MEDIASET FHD
+http://31.43.191.125:8080/restream/restream/136260
+#EXTINF:-1 group-title="IT | SERIE VIP",IT: 27 MEDIASET HD
+http://31.43.191.125:8080/restream/restream/136261
+#EXTINF:-1 group-title="IT | SERIE VIP",IT: BLAZE HD
+http://31.43.191.125:8080/restream/restream/136264
+#EXTINF:-1 group-title="IT | SERIE VIP" tvg-logo="https://docdog.top/logo/countries/italy/comedycentral.png",IT: COMEDY CENTRAL HD
+http://31.43.191.125:8080/restream/restream/136265
+#EXTINF:-1 group-title="IT | SERIE VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-atlantic-it.png",IT: SKY ATLANTIC FHD
+http://31.43.191.125:8080/restream/restream/136267
+#EXTINF:-1 group-title="IT | SERIE VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-atlantic-it.png",IT: SKY ATLANTIC HD
+http://31.43.191.125:8080/restream/restream/136268
+#EXTINF:-1 group-title="IT | SERIE VIP",IT: SKY SERIE HD
+http://31.43.191.125:8080/restream/restream/136273
+#EXTINF:-1 group-title="IT | SERIE VIP" tvg-logo="https://docdog.top/logo/countries/italy/top-crime-it.png",IT: TOP CRIME FHD
+http://31.43.191.125:8080/restream/restream/136276
+#EXTINF:-1 group-title="IT | SERIE VIP" tvg-logo="https://docdog.top/logo/countries/italy/top-crime-it.png",IT: TOP CRIME HD
+http://31.43.191.125:8080/restream/restream/136277
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png",IT: SKY CINEMA ACTION FHD
+http://31.43.191.125:8080/restream/restream/136279
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png",IT: SKY CINEMA ACTION HD
+http://31.43.191.125:8080/restream/restream/136280
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-collection-hz-it.png",IT: SKY CINEMA COLLECTION FHD
+http://31.43.191.125:8080/restream/restream/136282
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-collection-hz-it.png",IT: SKY CINEMA COLLECTION HD
+http://31.43.191.125:8080/restream/restream/136283
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-comedy-hz-it.png",IT: SKY CINEMA COMEDY FHD
+http://31.43.191.125:8080/restream/restream/136285
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-comedy-hz-it.png",IT: SKY CINEMA COMEDY HD
+http://31.43.191.125:8080/restream/restream/136286
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Drama.png",IT: SKY CINEMA DRAMA FHD
+http://31.43.191.125:8080/restream/restream/136288
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Drama.png",IT: SKY CINEMA DRAMA HD
+http://31.43.191.125:8080/restream/restream/136289
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP",IT: SKY CINEMA DUE +24 FHD
+http://31.43.191.125:8080/restream/restream/136291
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP",IT: SKY CINEMA DUE +24 HD
+http://31.43.191.125:8080/restream/restream/136292
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Due.png",IT: SKY CINEMA DUE FHD
+http://31.43.191.125:8080/restream/restream/136294
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Due.png",IT: SKY CINEMA DUE HD
+http://31.43.191.125:8080/restream/restream/136295
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Family.png",IT: SKY CINEMA FAMILY FHD
+http://31.43.191.125:8080/restream/restream/136297
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Family.png",IT: SKY CINEMA FAMILY HD
+http://31.43.191.125:8080/restream/restream/136298
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP",IT: SKY CINEMA ROMANCE FHD
+http://31.43.191.125:8080/restream/restream/136300
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP",IT: SKY CINEMA ROMANCE HD
+http://31.43.191.125:8080/restream/restream/136301
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-suspense-hz-it.png",IT: SKY CINEMA SUSPENSE FHD
+http://31.43.191.125:8080/restream/restream/136303
+#EXTINF:-1 group-title="IT | CINEMA | SKY VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-cinema-suspense-hz-it.png",IT: SKY CINEMA SUSPENSE HD
+http://31.43.191.125:8080/restream/restream/136304
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA 2 FHD
+http://31.43.191.125:8080/restream/restream/136322
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA 4 FHD
+http://31.43.191.125:8080/restream/restream/136324
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA PREMIERE 1 FHD
+http://31.43.191.125:8080/restream/restream/136335
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA PREMIERE 4 FHD
+http://31.43.191.125:8080/restream/restream/136338
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA PREMIERE 5 FHD
+http://31.43.191.125:8080/restream/restream/136339
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA PREMIERE 6 FHD
+http://31.43.191.125:8080/restream/restream/136340
+#EXTINF:-1 group-title="IT | CINEMA | PRIMAFILA VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-primafila-it.png",IT: SKY PRIMAFILA PREMIERE 7 FHD
+http://31.43.191.125:8080/restream/restream/136341
+#EXTINF:-1 group-title="IT | EUROSPORT VIP",IT: EUROSPORT 3 HD
+http://31.43.191.125:8080/restream/restream/136354
+#EXTINF:-1 group-title="IT | EUROSPORT VIP",IT: EUROSPORT 5
+http://31.43.191.125:8080/restream/restream/136359
+#EXTINF:-1 group-title="IT | EUROSPORT VIP",IT: EUROSPORT 5 HD
+http://31.43.191.125:8080/restream/restream/136361
+#EXTINF:-1 group-title="IT | EUROSPORT VIP",IT: EUROSPORT 6 FHD
+http://31.43.191.125:8080/restream/restream/136363
+#EXTINF:-1 group-title="IT | EUROSPORT VIP",IT: EUROSPORT 6 HD
+http://31.43.191.125:8080/restream/restream/136364
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/NFL_Network.png",IT: DAZN | NFL NETWORK
+http://31.43.191.125:8080/restream/restream/136366
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/NFL_Network.png",IT: DAZN | NFL NETWORK FHD
+http://31.43.191.125:8080/restream/restream/136367
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/NFL_Network.png",IT: DAZN | NFL NETWORK HD
+http://31.43.191.125:8080/restream/restream/136368
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/Red_Bull_TV.png",IT: DAZN | RED BULL TV
+http://31.43.191.125:8080/restream/restream/136369
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/Red_Bull_TV.png",IT: RED BULL TV FHD
+http://31.43.191.125:8080/restream/restream/136373
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/Red_Bull_TV.png",IT: RED BULL TV HD
+http://31.43.191.125:8080/restream/restream/136374
+#EXTINF:-1 group-title="IT | DAZN VIP",IT: DAZN | 1 FHD
+http://31.43.191.125:8080/restream/restream/136375
+#EXTINF:-1 group-title="IT | DAZN VIP",IT: DAZN | 1 HD
+http://31.43.191.125:8080/restream/restream/136376
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/dazn.png",IT: DAZN | EVENT 1
+http://31.43.191.125:8080/restream/restream/136378
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/dazn.png",IT: DAZN | 3 HD
+http://31.43.191.125:8080/restream/restream/136437
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/dazn.png",IT: DAZN | 6 HD
+http://31.43.191.125:8080/restream/restream/136440
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/dazn.png",IT: DAZN | 7 HD
+http://31.43.191.125:8080/restream/restream/136441
+#EXTINF:-1 group-title="IT | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/italy/dazn.png",IT: DAZN | 8 HD
+http://31.43.191.125:8080/restream/restream/136442
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/Eurosport_2.png",IT: EUROSPORT 2 HD
+http://31.43.191.125:8080/restream/restream/136460
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP",IT: MILAN TV
+http://31.43.191.125:8080/restream/restream/136467
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP",IT: MILAN TV HD
+http://31.43.191.125:8080/restream/restream/136469
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP",IT: RAI SPORT+
+http://31.43.191.125:8080/restream/restream/136470
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-24-it.png",IT: SKY SPORT 24 HD
+http://31.43.191.125:8080/restream/restream/136476
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png",IT: SKY SPORT ARENA FHD
+http://31.43.191.125:8080/restream/restream/136478
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png",IT: SKY SPORT ARENA HD
+http://31.43.191.125:8080/restream/restream/136479
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Golf.png",IT: SKY SPORT GOLF HD
+http://31.43.191.125:8080/restream/restream/136487
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png",IT: SKY SPORT MOTOGP FHD
+http://31.43.191.125:8080/restream/restream/136488
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png",IT: SKY SPORT MOTOGP HD
+http://31.43.191.125:8080/restream/restream/136489
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png",IT: SKY SPORT NBA FHD
+http://31.43.191.125:8080/restream/restream/136491
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png",IT: SKY SPORT NBA HD
+http://31.43.191.125:8080/restream/restream/136492
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png",IT: SKY SPORT TENNIS FHD
+http://31.43.191.125:8080/restream/restream/136494
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP",IT: SPORT ITALIA LIVE 24 HD
+http://31.43.191.125:8080/restream/restream/136502
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/zona_dazn.png",IT: ZONA DAZN FHD
+http://31.43.191.125:8080/restream/restream/136514
+#EXTINF:-1 group-title="IT | SKY SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/italy/zona_dazn.png",IT: ZONA DAZN HD
+http://31.43.191.125:8080/restream/restream/136515
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 254 HD
+http://31.43.191.125:8080/restream/restream/136527
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 255 FHD
+http://31.43.191.125:8080/restream/restream/136529
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 255 HD
+http://31.43.191.125:8080/restream/restream/136530
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 256 FHD
+http://31.43.191.125:8080/restream/restream/136532
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 256 HD
+http://31.43.191.125:8080/restream/restream/136533
+#EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png",IT: SKY SPORT 257 FHD
+http://31.43.191.125:8080/restream/restream/136535
